@@ -1,0 +1,33 @@
+<resources>
+<string name="app_name">MultipleForms</string>
+<string name="name">Name</string>
+<string name="password">password</string>
+<string name="login">login</string>
+<string name="logout">Logout</string>
+<string name="default_name">Name</string>
+<string name="login_to_your_account">Login To Your Account</string>
+<string name="home">Home</string>
+<string name="empid">empid</string>
+<string name="company">company</string>
+<string name="add_entry">ADD ENTRY</string>
+<string name="permit_heading">Permit</string>
+<string name="enter_permit_data">Enter Permit Data</string>
+<string name="permit_number">Permit Number</string>
+<string name="grs_number">GRS Number</string>
+<string name="confirm">CONFIRM</string>
+<string name="invoice_number">Invoice Number</string>
+<string name="godown_entry_heading">Godown Entry</string>
+<string name="default_company">Company</string>
+<string name="enter_product_details">Enter Product Details</string>
+<string name="product">Product</string>
+<string name="variant">Variant</string>
+<string name="quantity">Quantity</string>
+<string name="type">Type</string>
+<string name="no_of_cases">No Of Cases</string>
+<string name="eg_300">eg : 300</string>
+<string name="broken_bottles">Broken Bottles</string>
+<string name="eg_12">eg: 12</string>
+<string name="submit">SUBMIT</string>
+<string name="resulting_cases">Resulting Cases</string>
+<string name="_0_0">0.0</string>
+</resources>
